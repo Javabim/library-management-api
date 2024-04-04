@@ -25,7 +25,7 @@ Data Integrity:
 @Transaction annotation ensures data integrity during critical operations.
 
 AUTHENTICATION:
-The application uses JWT (JSON Web Token) for authentication.
+The application uses JWT (JSON Web Token) for authentication, JWT SECRET KEY(SHA 256-bit key).
 
 INSTALLATION:
 To run the application locally, follow these steps:
